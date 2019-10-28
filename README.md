@@ -1,4 +1,6 @@
 # Elastic stack (ELK) on Docker
+Ссылка для просмотра индексов в elasticsearch- http://elasticsearch:9200/_cat/shards
+Просмотр индексов в kibana - management/index
 
 [![Join the chat at https://gitter.im/deviantony/docker-elk](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/deviantony/docker-elk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Elastic Stack version](https://img.shields.io/badge/ELK-7.3.1-blue.svg?style=flat)](https://github.com/deviantony/docker-elk/issues/428)
